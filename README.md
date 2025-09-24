@@ -8,4 +8,4 @@ hellow world
 jellyous
 
 <h1>HAHAHAHHA</h1>
-<marque>hello</marque>
+<marquee>hello</marquee>
